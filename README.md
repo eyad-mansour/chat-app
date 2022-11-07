@@ -1,3 +1,3 @@
 # chat-app
 
-![uml diagram](uml-diagram.png)
+![uml diagram](uml.png)
