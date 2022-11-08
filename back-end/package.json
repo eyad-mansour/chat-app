@@ -5,12 +5,14 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "eyad",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.1.3",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
